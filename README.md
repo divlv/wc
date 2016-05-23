@@ -76,6 +76,6 @@ mvn jetty:run -Djetty.port=PORT
 (Url + UrlEncoded path to file)
 http://localhost:8080/wc/excel97?f=C%3A%5Cdelete%5C97.xls
 
-http://localhost:8080/wc/word?f=C%3A%5Cdelete%5C97.doc
+http://localhost:8080/wc/word97?f=C%3A%5Cdelete%5C97.doc
 
 
